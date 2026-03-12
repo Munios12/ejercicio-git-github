@@ -1,1 +1,2 @@
 Fix: Error de padding
+Fix: Carga de imágenes
