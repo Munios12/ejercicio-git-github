@@ -1,0 +1,3 @@
+Color: negro
+Iconos: blancos
+Logo: neon
