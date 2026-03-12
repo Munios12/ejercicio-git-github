@@ -1,3 +1,4 @@
 Color: negro
 Iconos: blancos
 Logo: neon
+Ajuste final de brillo
