@@ -1,1 +1,2 @@
 Color: negro
+Iconos: blancos
